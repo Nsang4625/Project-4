@@ -17,6 +17,9 @@ ArgoCD Application Deployment: Use ArgoCD to deploy the Three-Tier application, 
 Data Persistence: Implement persistent volume and persistent volume claims for database pods to ensure data persistence.
 Conclusion and Monitoring: Conclude the project by summarizing key achievements and monitoring the EKS cluster’s performance using Grafana.
 
+Architecture:
+![P_0](./Project-4.drawio.png)
+
 ## Prerequisites
 
 To follow this project, you must:
